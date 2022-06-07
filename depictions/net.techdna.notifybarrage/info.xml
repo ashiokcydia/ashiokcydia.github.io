@@ -1,0 +1,55 @@
+<package>
+	<id>net.techdna.notifybarrage</id>
+	<name>弹幕通知 NotifyBarrage</name>
+	<version>7.3.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+    <description>这是一款能将原生苹果设备通知信息转换成漂屏弹幕通知，
+弹幕预览。可同时保留原生通知栏提示也可屏蔽。字体大小
+颜色可自定义或随机。弹幕速度可随机可调节固定。</description>
+
+		<description>兼容：iOS (13.0 - 14.8)</description>
+		<description>支持设备：6s-12pm</description>
+		<description>授权限期：免费</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Featured Animes</description>
+			<image>screenshot_1.png</image>
+		</screenshot>		
+		<screenshot>
+			<description>Recently Viewed</description>
+			<image>screenshot_2.png</image>
+		</screenshot>
+    <screenshot>
+      <description>Search</description>
+      <image>screenshot_3.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Search Results</description>
+      <image>screenshot_4.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Choose Episodes</description>
+      <image>screenshot_5.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Chromecast</description>
+      <image>screenshot_6.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Chromecast</description>
+      <image>screenshot_7.png</image>
+    </screenshot>	
+  </screenshots>
+	<changelog>
+		<change>更新日志</change>
+	</changelog>
+</package>

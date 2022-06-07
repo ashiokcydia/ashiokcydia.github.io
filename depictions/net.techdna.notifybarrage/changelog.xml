@@ -1,0 +1,78 @@
+<changelog>
+  <changes>
+    <version>7.3.0</version>
+    <change><![CDATA[
+      2022年6月7日更新<br />
+      修复：<br />
+        修复部分app闪退的bug。<br />
+    ]]>
+    </change>
+  </changes>
+  <changes>
+    <version>7.2.0</version>
+    <change><![CDATA[
+      2022年6月5日更新<br />
+      修复：<br />
+        修复部分app无法正常运行的bug。<br />
+    ]]>
+    </change>
+  </changes>
+  <changes>
+    <version>7.1.0</version>
+    <change><![CDATA[
+      2022年5月30日更新
+      修复：<br />
+        修复某些app会闪退的bug。<br />
+    ]]>
+    </change>
+  </changes>
+  <changes>
+    <version>7.0.0</version>
+    <change><![CDATA[
+      2022年5月29日更新<br />
+      新增：<br />
+        将插件免费，并提供公众号关注和打赏。<br />
+    ]]>
+    </change>
+  </changes>
+  <changes>
+    <version>6.0.0</version>
+    <change><![CDATA[
+      新增：<br />
+        新增当指定app正在运行时，通知才变弹幕的功能。<br />
+    ]]>
+    </change>
+  </changes>
+  <changes>
+    <version>5.0.0</version>
+    <change><![CDATA[
+      修复：<br />
+        1. 修复iOS14下弹幕图标不显示的bug；<br />
+        2. 修复iOS14下点击“测试通知弹幕”按钮没有反应的bug。<br />
+    ]]>
+    </change>
+  </changes>
+  <changes>
+    <version>4.0.0</version>
+    <change><![CDATA[
+      修复：<br />
+        1. 修复一些测试通知弹幕和弹幕声音的一些bug。<br />
+      新增：<br />
+        1. 弹幕出现的地方，将不会屏蔽弹幕底下界面的点击响应；<br />
+        2. 新增字体描边，不管什么颜色的字体和背景色，都能看得清楚。<br />
+    ]]>
+    </change>
+  </changes>
+  <changes>
+    <version>3.0.0</version>
+    <change><![CDATA[
+      修复：<br />
+        1. 修复开启屏蔽通知横幅时，锁屏界面收到消息时屏幕不会亮起的bug；<br />
+        2. 修复当系统设定某个app不接收推送通知时，app有推送通知弹幕时仍会出现的bug；<br />
+        3. 修复弹幕偶尔会失效的bug。<br />
+      新增：<br />
+        1. 新增弹幕声音会根据app设置的推送声音一致的功能。<br />
+    ]]>
+    </change>
+  </changes>
+</changelog>

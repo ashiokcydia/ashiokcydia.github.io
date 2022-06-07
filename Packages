@@ -1,0 +1,19 @@
+Package: net.techdna.notifybarrage
+Version: 7.3.0
+Architecture: iphoneos-arm
+Maintainer: phoenixwright
+Installed-Size: 14292
+Depends: mobilesubstrate,preferenceloader,applist
+Replaces: com.itcbx.notifybarrage
+Filename: ./debs/net.techdna.notifybarrage_7.3.0_iphoneos-arm.deb
+Size: 3074136
+MD5sum: bc9586f665a63788133d147d046be3cc
+SHA1: a748ac3084d333c57efddcfabad087d98e6f53f2
+SHA256: 617e32ea1a179d3875de2afc55d32499c6f699024ea0cc8638f147911bcfe01e
+Section: Tweaks
+Description: 将通知转换成弹幕
+Author: phoenixwright
+Depiction: https://apt.techdna.net/depictions/?p=net.techdna.notifybarrage
+Icon: file:///Library/PreferenceBundles/NotifyBarragePrefs.bundle/icon@3x.png
+Name: NotifyBarrage
+
