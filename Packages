@@ -1,3 +1,19 @@
+Package: com.cydiavip.xxxxx
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: ashi
+Installed-Size: 1
+Filename: ./debs/com.cydiavip.xxxxx_1.0_iphoneos-arm.deb
+Size: 620
+MD5sum: b11fc5d628a9a64331d5b4a795637cf5
+SHA1: 0b4e3166d789a16a7f94c5b735dcd68700e4c9d9
+SHA256: 749514ff15abe1fccc49eb8a272f4dcad080015319f37faef8074d2c90e130f1
+Section: Tweaks
+Description: 安装插件请添加cydiavip.com
+Author: ashi
+Depiction: https://apt.techdna.net/depictions/?p=com.cydiavip.xxxxx
+Name: 公告通知
+
 Package: net.techdna.notifybarrage
 Version: 7.3.0
 Architecture: iphoneos-arm
